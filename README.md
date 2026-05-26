@@ -1,16 +1,129 @@
-# React + Vite
+# 🚀 Portfolio — Fullstack Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfólio profissional desenvolvido para apresentação de projetos, experiências e tecnologias relacionadas a desenvolvimento Fullstack, infraestrutura e automação.
 
-Currently, two official plugins are available:
+O projeto foi construído com foco em:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* minimalismo
+* performance
+* responsividade
+* experiência visual moderna
+* arquitetura limpa e escalável
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# ✨ Preview
 
-## Expanding the ESLint configuration
+Projeto inspirado em interfaces modernas de engenharia e software, utilizando uma estética minimalista e profissional.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Principais características
+
+* Design moderno e minimalista
+* Estrutura responsiva
+* Animações suaves
+* Showcase de tecnologias
+* Seção de projetos em destaque
+* Integração com GitHub e LinkedIn
+* Código componentizado e organizado
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+## Front-end
+
+* React
+* Vite
+* TailwindCSS
+* Framer Motion
+
+## Ferramentas
+
+* Git
+* GitHub
+* Vercel
+
+---
+
+# 📂 Estrutura do Projeto
+
+```bash
+src/
+├── components/
+├── sections/
+├── assets/
+├── data/
+├── styles/
+└── App.jsx
+```
+
+---
+
+# ⚙️ Instalação
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+```
+
+Acesse a pasta:
+
+```bash
+cd SEU-REPOSITORIO
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
+
+```bash
+npm run dev
+```
+
+---
+
+# 🧩 Build de Produção
+
+```bash
+npm run build
+```
+
+---
+
+# 🌐 Deploy
+
+Projeto publicado utilizando:
+
+* Vercel
+
+---
+
+# 📌 Objetivo
+
+Este projeto foi desenvolvido com o objetivo de consolidar conhecimentos em:
+
+* desenvolvimento front-end
+* componentização
+* UI/UX
+* organização de projetos React
+* arquitetura visual moderna
+* performance e responsividade
+
+---
+
+# 📫 Contato
+
+* GitHub: https://github.com/Miguelapc1
+* LinkedIn: adicionar-linkedin
+* E-mail: adicionar-email
+
+---
+
+# 📄 Licença
+
+Este projeto é de uso pessoal e educacional.
