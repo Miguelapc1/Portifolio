@@ -48,13 +48,32 @@ Projeto inspirado em interfaces modernas de engenharia e software, utilizando um
 # 📂 Estrutura do Projeto
 
 ```bash
-src/
-├── components/
-├── sections/
-├── assets/
-├── data/
-├── styles/
-└── App.jsx
+portfolio/
+├── public/ 
+│   ├──icons/
+│       ├── icones.gvs  # Arquivos estáticos (favicon, etc.)
+├── src/
+│   ├── components/
+│   │   ├── layout/
+│   │   │   ├── Navbar.jsx     # Barra de navegação fixa
+│   │   │   └── SocialSidebar.jsx  # Ícones sociais fixos (canto inferior esquerdo)
+│   │   └── sections/
+│   │       ├── Hero.jsx       # Seção inicial (hero)
+│   │       ├── Sobre.jsx      # Seção "Sobre"
+│   │       ├── Skills.jsx     # Seção de tecnologias
+│   │       ├── Experiencia.jsx # Timeline de experiências
+│   │       ├── Projetos.jsx   # Cards de projetos
+│   │       └── Contato.jsx    # Seção de contato + rodapé
+│   ├── data/
+│   │   └── content.js         # ★ ARQUIVO PRINCIPAL DE CONTEÚDO
+│   ├── hooks/
+│   │   └── useScrollSpy.js    # Hook para detectar seção ativa no scroll
+│   ├── App.jsx                # Raiz da aplicação (ordem das seções)
+│   ├── main.jsx               # Entry point React
+│   └── index.css              # Estilos globais + variáveis CSS
+├── tailwind.config.js         # Configuração do Tailwind (cores, fontes)
+├── vite.config.js             # Configuração do Vite
+└── DOCUMENTATION.md           # Este arquivo
 ```
 
 ---
@@ -119,8 +138,8 @@ Este projeto foi desenvolvido com o objetivo de consolidar conhecimentos em:
 # 📫 Contato
 
 * GitHub: https://github.com/Miguelapc1
-* LinkedIn: adicionar-linkedin
-* E-mail: adicionar-email
+* LinkedIn: https://www.linkedin.com/in/miguel-augusto-51b563334/
+* E-mail: miguelpecanha2020@gmail.com
 
 ---
 
