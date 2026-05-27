@@ -108,7 +108,7 @@ export const projects = [
     description:
       'Sistema de monitoramento automatizado para análise contínua de URLs e serviços, com verificação em tempo real, identificação de falhas e acompanhamento operacional. Desenvolvido com foco em estabilidade, automação de processos e centralização de informações para monitoramento eficiente dos ambientes.',
     stack: ['JavaScript', 'React', 'Data Base', 'Git', 'Python'],
-    url: '#',
+    url: 'https://github.com/Miguelapc1/Plataforma-de-Monitoramento',
     featured: true,
   },
   {
